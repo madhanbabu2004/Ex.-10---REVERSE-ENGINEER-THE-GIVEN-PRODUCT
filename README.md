@@ -31,10 +31,10 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![Screenshot 2025-05-07 211716](https://github.com/user-attachments/assets/dc7bc2f3-531f-468a-93af-eec63e3c0d70)
+![WhatsApp Image 2025-11-30 at 12 11 39_7a468e82](https://github.com/user-attachments/assets/c6a089df-348b-4aea-a61a-0134c24d4328)
 
 ### Output:
-![Screenshot 2025-05-07 211726](https://github.com/user-attachments/assets/73a469b1-202d-4748-b4af-bdd1a5a83e2a)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/897b4203-f835-45da-b9e3-fcb11365966d" />
 
 
 ### Name:MADHAN BABU P
